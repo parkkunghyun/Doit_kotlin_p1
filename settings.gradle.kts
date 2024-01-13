@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 rootProject.name = "Doit_kotlin"
 include(":app")
 include(":ch7_layout")
+include(":ch8_viewevent")
